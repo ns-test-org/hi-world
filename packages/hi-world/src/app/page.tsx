@@ -1,6 +1,6 @@
 export default function Landing() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-purple-600 via-pink-500 to-orange-500 text-white flex items-center justify-center p-6">
+    <div className="min-h-screen bg-gradient-to-br from-purple-900 via-pink-800 to-orange-700 text-white flex items-center justify-center p-6">
       <div className="text-center space-y-8">
         {/* v0 Logo */}
         <div className="flex items-center justify-center gap-3">
@@ -29,5 +29,6 @@ export default function Landing() {
     </div>
   );
 }
+
 
 
